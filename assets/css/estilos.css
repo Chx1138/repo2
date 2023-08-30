@@ -1,0 +1,41 @@
+
+body{
+    background-color: white;
+}
+
+.bg-peligro{
+    background-color: red;
+}
+
+.btn-exterior-colorPrincipal{
+    border-color: #023f06;
+}
+
+.btn-exterior-colorPrincipal:hover{
+    background-color:#1fa02e ;
+    color:#fff;
+}
+
+.bg-principal{ 
+    background-color: #238538;
+}
+
+.bg-principalClaro{
+    background-color: #1fa02e;
+}
+
+.bg-principalOscuro{
+    background-color: #023f06;
+}
+
+.text-oscuro{
+    color: black;
+}
+
+.text-claro{
+    color: azure;
+}
+
+.nav-link:hover{
+    color: #023f06;
+}
